@@ -21,8 +21,8 @@ module.exports = function () {
               // amzn1.ask.skill.df22d270-6bc3-4a37-8e53-b8d7a1f1717f
     //amzn_appId: "amzn1.ask.skill.df22d270-6bc3-4a37-8e53-b8d7a1f1717f",
     amzn_appId: "amzn1.ask.skill.5ed93f09-cc58-4041-8ead-b877d544077a",
-    channelSecretKey: 'AIWvBPHXhxhFdKV47IDu1fF2pxcsvmLn',
-    channelUrl: 'https://b2b34218.ngrok.io/connectors/v1/tenants/chatbot-tenant/listeners/webhook/channels/E78A0816-F388-4C3E-AF93-1D1C543E931A'    
+    channelSecretKey: '5nHEreQ4t910dtAn7OlUoAssh5ThnGmO',
+    channelUrl: 'http://bots-connectors:8000/connectors/v1/tenants/chatbot-tenant/listeners/webhook/channels/D79B6330-6BF5-47FA-9CE1-CE668B83B19C'    
     // channelUrl: 'https://e87476aa.ngrok.io/connectors/v1/tenants/chatbot-tenant/listeners/webhook/channels/AE1803AB-3A46-4A40-A34A-13B4989C5DD5'
   };
 
